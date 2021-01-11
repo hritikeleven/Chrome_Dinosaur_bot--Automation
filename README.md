@@ -1,4 +1,4 @@
-# Dino_bot-
+# chrome_dinosaur_bot--automation 
 Chrome Dino bot which automates the motion of the Dinosaur! :sparkles:
 ________________________________________________________________________________________________
 # Change configuration acoording to your screeen ratio and resolution!
